@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs/SeleniumTesting/v15/Server/sqlite3
+/SeleniumTesting/bin/Debug
+/SeleniumTesting/obj/Debug
+/SeleniumTesting/obj
+*.suo
+/.vs/config
+/.vs/SeleniumTesting/DesignTimeBuild
